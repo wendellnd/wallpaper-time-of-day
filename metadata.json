@@ -1,0 +1,6 @@
+{
+  "name": "Wallpaper Time of Day",
+  "description": "An wallpaper that changes with the time of the day",
+  "uuid": "wallpapertimeofday@wendelldourado.dev",
+  "shell-version": ["44"]
+}
